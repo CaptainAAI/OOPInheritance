@@ -16,3 +16,4 @@ public:
 	void tambahAnak(anak*);
 	void cetakAnak();
 };
+#endif
