@@ -6,7 +6,7 @@ using namespace std;
 #include "manusia.h"
 
 int main() {//composition
-	manunsia* varManusia = new manusia("jono");
+	manusia* varManusia = new manusia("jono");
 	delete varManusia;
 	return 0;
 
